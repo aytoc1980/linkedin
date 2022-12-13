@@ -4,4 +4,4 @@
 
 Linkedin klonunu bootstrap yardımıyla oluşturduk.
 
-[Lorem ipsum] (http://www.google.com)
+
